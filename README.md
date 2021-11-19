@@ -2,7 +2,7 @@
 
 
 
-<h2> Hi, I'm Thai Samuel! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<h2> Hi, I'm Thai Samuel! <img src="https://elements-cover-images-0.imgix.net/37a16df5-688a-4d87-be17-77674edea0cd?auto=compress%2Cformat&fit=max&w=1170&s=8ba017a48f2d8f3fd32fdceb83430aea" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
 <p><em>Full Stack developer MERN  
 </em></p>
@@ -23,17 +23,4 @@ const samuel = {
  challenge: "I am doing the #100DaysOfCode challenge focused on react and node"
 }
 
-<!--
-**Samuelposadas/SamuelPosadas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
