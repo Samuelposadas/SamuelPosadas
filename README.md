@@ -34,7 +34,7 @@
 ```javascript
 const samuel = {
   pronouns: "he" | "him",
-  code: [Javascript, HTML, CSS, Node, ],
+  code: [Javascript, HTML, CSS,  ],
   tools: [React, Redux, Node, express, sequelize ],
   database:[postgre, myql, mongoDb ]
   architecture: [Model view Controller],
