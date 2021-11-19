@@ -21,7 +21,7 @@
   <a href="https://es.redux.js.org/"><img src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/frameworks/redux.svg"  height="55" width="55" ></a>
     <a href="https://getbootstrap.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="45" height="45"/></a>
   <a href="https://nodejs.org/es/"><img src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/frameworks/nodejs.svg"  height="55" width="55" ></a>
-  <a href="https://expressjs.com/"><img src="https://blobscdn.gitbook.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-Lgyno4NC7rhy49BAEjN%2F-Lh14lb3LH4C886qWxYA%2F-Lh1DZeIUQennGd9RiHe%2FScreen%20Shot%202019-06-10%20at%2011.30.20%20AM.png?alt=media&token=784b79f6-81b5-4308-97a2-155afb9d496f"  height="45" ></a>
+  <a href="https://expressjs.com/"><img src="https://www.bairesdev.com/wp-content/uploads/2021/07/Expressjs.svg"  height="45" ></a>
   <a href="https://www.postgresql.org/"><img src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/databases/postgresql.svg"  height="55" width="55" ></a>
   <a href="https://sequelize.org/"><img src="https://camo.githubusercontent.com/c7df0ed52a480ff725aac7ac3a11c8aedb6f60ea8ab01929c6adea9903589222/68747470733a2f2f63646e2e69636f6e2d69636f6e732e636f6d2f69636f6e73322f323130372f504e472f3531322f66696c655f747970655f73657175656c697a655f69636f6e5f3133303137332e706e67"  height="55" width="55" ></a>
 
