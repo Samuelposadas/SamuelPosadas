@@ -11,7 +11,7 @@
 [![GitHub SamuelPosadas](https://img.shields.io/github/followers/SamuelPosadas?label=follow&style=social)](https://github.com/samuelposadas)
 
 
-### <img src="https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/attachments/delivery/asset/d0e785eb6a7d184837762a6cb968890f-1632182336/4/create-animated-gif-or-lottie-json-svg-animation-for-web-and-mobile-app.gif" width="50"> A little more about me...  
+### <img src="https://i.pinimg.com/originals/93/d3/e3/93d3e31639a4d07613de9dccdc8bd5e8.png" width="50"> A little more about me...  
 
 ```javascript
 const samuel = {
