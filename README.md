@@ -3,7 +3,7 @@
 
 
 <h2> Hi, I'm Thai Samuel!</h2>
-<img align='right' src=" <img src="https://elements-cover-images-0.imgix.net/37a16df5-688a-4d87-be17-77674edea0cd?auto=compress%2Cformat&fit=max&w=1170&s=8ba017a48f2d8f3fd32fdceb83430aea" width="50">" width="230">
+<img src="https://elements-cover-images-0.imgix.net/37a16df5-688a-4d87-be17-77674edea0cd?auto=compress%2Cformat&fit=max&w=1170&s=8ba017a48f2d8f3fd32fdceb83430aea">
 <p><em>Full Stack developer MERN  
 </em></p>
 
