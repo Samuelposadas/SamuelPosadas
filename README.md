@@ -17,8 +17,9 @@
 const samuel = {
   pronouns: "he" | "him",
   code: [Javascript, HTML, CSS, Node, ],
-  tools: [React, Redux, Node, express, ],
-  architecture: ["Model view Controller"],
+  tools: [React, Redux, Node, express,sequelize ],
+  database:[postgre,myql,mongoDb ]
+  architecture: [Model view Controller],
   
  challenge: "I am doing the #100DaysOfCode challenge focused on react and node"
 }
