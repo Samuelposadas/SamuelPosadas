@@ -7,8 +7,8 @@
 <p><em>Full Stack developer MERN  
 </em></p>
 
-[![Linkedin: Samuel Posadas](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/SamuelPosadas/)](https://www.linkedin.com/in/SamuelPosadas/)
-[![GitHub Samuel Posadas](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/SamuelPosadas)
+[![Linkedin: Samuel Posadas](https://img.shields.io/badge/-samuelPosadas-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/SamuelPosadas/)](https://www.linkedin.com/in/SamuelPosadas/)
+[![GitHub Samuel Posadas](https://img.shields.io/github/followers/SamuelPosadas?label=follow&style=social)](https://github.com/SamuelPosadas)
 
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
