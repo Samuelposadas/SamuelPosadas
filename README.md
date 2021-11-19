@@ -11,7 +11,7 @@
 [![GitHub SamuelPosadas](https://img.shields.io/github/followers/SamuelPosadas?label=follow&style=social)](https://github.com/samuelposadas)
 
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+### <img src="https://cdn.dribbble.com/users/2401141/screenshots/5487982/developers-gif-showcase.gif" width="50"> A little more about me...  
 
 ```javascript
 const samuel = {
