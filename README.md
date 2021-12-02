@@ -12,8 +12,8 @@ i studied at UTN and Soy Henry Bootcamp  </h3>
 </em></p>
 
 ## - ✨ My Wishlist ✨ -
- <a href="https://es.redux.js.org/"><img src="https://i.ytimg.com/vi/i1uoJCsAxWc/maxresdefault.jpg"  height="100" width="100" ></a>
-<a href="https://es.redux.js.org/"><img src="https://miro.medium.com/max/900/1*5JXt0wiQjX_FDwYvrxPN9Q.png"  height="100" width="100" ></a>
+ <a href="https://es.redux.js.org/"><img src="https://i.ytimg.com/vi/i1uoJCsAxWc/maxresdefault.jpg"  height="1500" width="1500" ></a>
+<a href="https://es.redux.js.org/"><img src="https://miro.medium.com/max/900/1*5JXt0wiQjX_FDwYvrxPN9Q.png"  height="1500" width="150" ></a>
 
 <br/>  
 
@@ -47,6 +47,8 @@ i studied at UTN and Soy Henry Bootcamp  </h3>
    ## Some projects
    <a href="https://ibb.co/J50cnmp"><img src="https://i.ibb.co/18h0Z7X/Gif-Expert-App-Google-Chrome-2-12-2021-16-34-11.png" alt="Gif-Expert-App-Google-Chrome-2-12-2021-16-34-11"   height="400" width="400"></a>
    <a href="https://ibb.co/6Xg3YzM"><img src="https://i.ibb.co/8Y6WMqC/Gif-Expert-App-Google-Chrome-2-12-2021-16-34-30.png" alt="Gif-Expert-App-Google-Chrome-2-12-2021-16-34-30" height="400" width="400"></a>
+   <a href="https://ibb.co/rmzCYNw"><img src="https://i.ibb.co/wRP9Vjz/Gif-Expert-App-Google-Chrome-2-12-2021-16-33-24.png" alt="Gif-Expert-App-Google-Chrome-2-12-2021-16-33-24" height="400" width="400"></a>
+   <a href="https://ibb.co/Mgp6FdY"><img src="https://i.ibb.co/FhJVRpS/Recipe-App-Google-Chrome-2-12-2021-16-53-01.png" alt="Recipe-App-Google-Chrome-2-12-2021-16-53-01" height="400" width="400"></a>
    
     
 ```javascript
