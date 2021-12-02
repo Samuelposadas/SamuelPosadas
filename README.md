@@ -51,7 +51,7 @@ i studied at UTN and Soy Henry Bootcamp  </h3>
    <a href="https://ibb.co/6Xg3YzM"><img src="https://i.ibb.co/8Y6WMqC/Gif-Expert-App-Google-Chrome-2-12-2021-16-34-30.png" alt="Gif-Expert-App-Google-Chrome-2-12-2021-16-34-30" height="500" width="500"></a>
    
     
-``javascript
+```javascript
 const samuel = {
   pronouns: "he" | "him",
   code: [Javascript, HTML, CSS,  ],
