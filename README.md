@@ -9,6 +9,12 @@ i studied at UTN and Soy Henry Bootcamp  </h3>
 <p><em>Full Stack developer MERN  
 </em></p>
 
+## - ✨ My Wishlist ✨ -
+
+React Native, goland ,Next Js
+
+<br/>
+
 [![Linkedin: samuel-posadas](https://img.shields.io/badge/-samuelPosadas-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/samuel-posadas/)](https://www.linkedin.com/in/samuel-posadas/)
 [![GitHub SamuelPosadas](https://img.shields.io/github/followers/SamuelPosadas?label=follow&style=social)](https://github.com/samuelposadas)
 
@@ -44,8 +50,5 @@ const samuel = {
  challenge: "I am doing to challenge focused on react and node"
 }
     
-    ## - ✨ Lista de cosas por Aprender ✨ -
-    
-    React Native y goland
-
+  
 
