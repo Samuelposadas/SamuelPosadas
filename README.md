@@ -12,8 +12,8 @@ i studied at UTN and Soy Henry Bootcamp  </h3>
 </em></p>
 
 ## - ✨ My Wishlist ✨ -
- <a href="https://es.redux.js.org/"><img src="https://i.ytimg.com/vi/i1uoJCsAxWc/maxresdefault.jpg"  height="1500" width="1500" ></a>
-<a href="https://es.redux.js.org/"><img src="https://miro.medium.com/max/900/1*5JXt0wiQjX_FDwYvrxPN9Q.png"  height="1500" width="150" ></a>
+ <a href="https://es.redux.js.org/"><img src="https://i.ytimg.com/vi/i1uoJCsAxWc/maxresdefault.jpg"  height="150" width="150" ></a>
+<a href="https://es.redux.js.org/"><img src="https://miro.medium.com/max/900/1*5JXt0wiQjX_FDwYvrxPN9Q.png"  height="150" width="150" ></a>
 
 <br/>  
 
