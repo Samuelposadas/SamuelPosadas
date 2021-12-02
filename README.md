@@ -11,7 +11,9 @@ i studied at UTN and Soy Henry Bootcamp  </h3>
 
 ## - ✨ My Wishlist ✨ -
 
-React Native, goland ,Next Js
+React Native
+ <a href="https://es.redux.js.org/"><img src="https://i.ytimg.com/vi/i1uoJCsAxWc/maxresdefault.jpg"  height="55" width="55" ></a>
+, goland 
 
 <br/>
 
