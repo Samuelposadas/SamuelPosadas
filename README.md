@@ -36,6 +36,9 @@ i studied at UTN and Soy Henry Bootcamp  </h3>
 
  
   </div>
+   
+   ## Some projects
+   <a href="https://ibb.co/J50cnmp"><img src="https://i.ibb.co/18h0Z7X/Gif-Expert-App-Google-Chrome-2-12-2021-16-34-11.png" alt="Gif-Expert-App-Google-Chrome-2-12-2021-16-34-11" border="0"></a>
     
    
 
@@ -49,8 +52,4 @@ const samuel = {
   
  challenge: "I am doing to challenge focused on react and node"
 }
-    
- 
-   ## Some projects
-   <a href="https://ibb.co/J50cnmp"><img src="https://i.ibb.co/18h0Z7X/Gif-Expert-App-Google-Chrome-2-12-2021-16-34-11.png" alt="Gif-Expert-App-Google-Chrome-2-12-2021-16-34-11" border="0"></a>
 
