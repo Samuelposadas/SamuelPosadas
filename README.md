@@ -18,6 +18,7 @@ i studied at UTN and Soy Henry Bootcamp  </h3>
 [![Linkedin: samuel-posadas](https://img.shields.io/badge/-samuelPosadas-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/samuel-posadas/)](https://www.linkedin.com/in/samuel-posadas/)
 [![GitHub SamuelPosadas](https://img.shields.io/github/followers/SamuelPosadas?label=follow&style=social)](https://github.com/samuelposadas)
 
+<br/>
 
 ### <img src="https://i.pinimg.com/originals/93/d3/e3/93d3e31639a4d07613de9dccdc8bd5e8.png" width="50"> A little more about me...  
 
