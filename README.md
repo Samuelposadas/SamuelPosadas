@@ -38,7 +38,7 @@ i studied at UTN and Soy Henry Bootcamp  </h3>
   </div>
    
    ## Some projects
-   <a href="https://ibb.co/J50cnmp"><img src="https://i.ibb.co/18h0Z7X/Gif-Expert-App-Google-Chrome-2-12-2021-16-34-11.png" alt="Gif-Expert-App-Google-Chrome-2-12-2021-16-34-11"   height="100" width="100"></a>
+   <a href="https://ibb.co/J50cnmp"><img src="https://i.ibb.co/18h0Z7X/Gif-Expert-App-Google-Chrome-2-12-2021-16-34-11.png" alt="Gif-Expert-App-Google-Chrome-2-12-2021-16-34-11"   height="200" width="200"></a>
     
    
 
