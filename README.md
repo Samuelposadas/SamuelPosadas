@@ -10,12 +10,9 @@ i studied at UTN and Soy Henry Bootcamp  </h3>
 </em></p>
 
 ## - ✨ My Wishlist ✨ -
-
 React Native
- <a href="https://es.redux.js.org/"><img src="https://i.ytimg.com/vi/i1uoJCsAxWc/maxresdefault.jpg"  height="65" width="65" ></a>
- <br/> 
- golang 
-<a href="https://es.redux.js.org/"><img src="https://miro.medium.com/max/900/1*5JXt0wiQjX_FDwYvrxPN9Q.png"  height="65" width="65" ></a>
+ <a href="https://es.redux.js.org/"><img src="https://i.ytimg.com/vi/i1uoJCsAxWc/maxresdefault.jpg"  height="80" width="80" ></a>
+<a href="https://es.redux.js.org/"><img src="https://miro.medium.com/max/900/1*5JXt0wiQjX_FDwYvrxPN9Q.png"  height="80" width="80" ></a>
 
 <br/>
 
