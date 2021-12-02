@@ -43,5 +43,9 @@ const samuel = {
   
  challenge: "I am doing to challenge focused on react and node"
 }
+    
+    ## - ✨ Lista de cosas por Aprender ✨ -
+    
+    React Native y goland
 
 
