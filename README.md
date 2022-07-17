@@ -54,10 +54,9 @@ i studied at UTN and Soy Henry Bootcamp  </h3>
 ```javascript
 const samuel = {
   pronouns: "he" | "him",
-  code: [Javascript, HTML, CSS,  ],
+  code: [Javascript, HTML, CSS, Typescript  ],
   tools: [React, Redux, Node, Express, Sequelize ],
   database:[Postgre, Myql, MongoDb ]
-  architecture: [Model View Controller],
   
  challenge: "I am doing to challenge focused on react and node"
 }
